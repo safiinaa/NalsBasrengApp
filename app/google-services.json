@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170660782443",
+    "project_id": "nalsbasreng-d9b01",
+    "storage_bucket": "nalsbasreng-d9b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170660782443:android:f0f4938469b1478ddfec2e",
+        "android_client_info": {
+          "package_name": "com.example.nalsbasreng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY8lUkhQJzj7r8s-m8AmWMeRf5ywfkRe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">OdysseyOrraApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="masuk_tidak_punyakun">
+        Saya tidak memiliki akun
+        <font color="#135D66"><b>Daftar</b></font>
+    </string>
+
+    <string name="daftar_punyaakun">
+        Saya sudah memiliki akun
+        <font color="#135D66"><b>Masuk</b></font>
+    </string>
+
+    <string name="judul_awal">Hei Kamu!</string>
+    <string name="subjudul_awal">
+        Senang bertemu dengan Anda, bergabunglah bersama kami!
+        <br><b>Masuk</b> jika Anda sudah memiliki akun.</br>
+        <br><b>Daftar</b> untuk memulai dengan app.</br>
+    </string>
+    <string name="ilustrasilogin">ilustrasilogin</string>
+    <string name="btn_daftar">Daftar</string>
+    <string name="btn_masuk">Masuk</string>
+    <string name="judul_login">Masuk ke App.</string>
+    <string name="subjudul_masuk">
+        <font color="#135D66"><b>Masuk</b></font>
+        jika Anda sudah memiliki akun
+    </string>
+</resources>
